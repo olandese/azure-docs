@@ -94,7 +94,7 @@ Cloud Services (classic) can be used with other classic resources. However, clas
 | Data Lake Store |Yes |[Data Lake Store REST](/rest/api/datalakestore) |[Data Lake Store Schema](https://github.com/Azure/azure-resource-manager-schemas/blob/master/schemas/2015-10-01-preview/Microsoft.DataLakeStore.json) |[Microsoft.DataLakeStore](https://github.com/Azure/azure-quickstart-templates/search?utf8=%E2%9C%93&q=%22Microsoft.DataLakeStore%22&type=Code) |
 | HDInsights |Yes |[HDInsights REST](/rest/api/hdinsight) | |[Microsoft.HDInsight](https://github.com/Azure/azure-quickstart-templates/search?utf8=%E2%9C%93&q=%22Microsoft.HDInsight%22&type=Code) |
 | Machine Learning |Yes |[Machine Learning REST](/rest/api/machinelearning) |[Machine Learning Schema](https://github.com/Azure/azure-resource-manager-schemas/blob/master/schemas/2016-05-01-preview/Microsoft.MachineLearning.json) | |
-| Stream Analytics |Yes |[Steam Analytics REST](/rest/api/streamanalytics) | | |
+| Stream Analytics |Yes |[Steam Analytics REST](/rest/api/streamanalytics) | |[Microsoft.StreamAnalytics](https://github.com/Azure/azure-quickstart-templates/search?utf8=%E2%9C%93&q=%22Microsoft.StreamAnalytics%22&type=Code) |
 | Power BI |Yes |[Power BI Embedded REST](/rest/api/powerbiembedded) |[Power BI Schema](https://github.com/Azure/azure-resource-manager-schemas/blob/master/schemas/2016-01-29/Microsoft.PowerBI.json) | |
 
 
